@@ -11,12 +11,7 @@ Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Ad
 👨🏾‍💻 As principais stacks que tenho familaridade são o Java, Frameworks Springs e Hibernate;<br/>
 📬 Qualquer sugestão de melhoria nos códigos ou dúvida, sinta-se a vontade 😄.<br/>
   <br/><br/>
-  
- <div>
-  <a href="https://github.com/anderson361163">
-  <img height="250em" width="560em" src="https://github-readme-stats.vercel.app/api?username=anderson361163&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-   
+     
 ### Onde me encontrar:
 
 <a href="https://br.linkedin.com/in/anderson-machado368">
