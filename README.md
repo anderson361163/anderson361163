@@ -4,7 +4,7 @@
 
 <br>
 
-Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ e CSharp! No tempo livre gosto de ♟ jogar xadrez ♟ e aprender novos algortimos para montar 🎩 cubos mágicos 3x3 🎩. 
+Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ ! No tempo livre gosto de ♟ jogar xadrez ♟ e aprender novos algortimos para montar 🎩 cubos mágicos 3x3 🎩. 
 
 ## Sobre mim
 📚 Sou aluno do curso <b>Sistema da Informação<b> da <b>Faculdade Impacta</b> 🎯; <br/> 
