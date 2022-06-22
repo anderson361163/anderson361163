@@ -4,11 +4,11 @@
 
 <br>
 
-Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ ! No tempo livre gosto de ♟ jogar xadrez ♟ e aprender novos algortimos para montar 🎩 cubos mágicos 3x3 🎩. 
+Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ ! No tempo livre gosto de ♟ jogar xadrez ♟ . (O CSS só está em primeiro lugar devido aos templates que utilizo em alguns sistemas).
 
 ## Sobre mim
 📚 Sou aluno do curso <b>Sistema da Informação<b> da <b>Faculdade Impacta</b> 🎯; <br/> 
-👨🏾‍💻 As principais stacks que tenho familaridade são o Java, Frameworks Springs e Hibernate;<br/>
+👨🏾‍💻 As principais stacks que tenho familaridade são o Java, Springs Frameworks e Hibernate;<br/>
 📬 Qualquer sugestão de melhoria nos códigos ou dúvida, sinta-se a vontade 😄.<br/>
   <br/><br/>
      
