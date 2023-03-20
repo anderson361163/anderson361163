@@ -1,7 +1,5 @@
 ### Seja bem-vindo ao meu perfil! 👋🏾
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson361163&hide=html&vue&theme=dracula" alt="anderson361163" />
-
 <br>
 
 Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ ! (O CSS só está em primeiro lugar devido aos templates que utilizo em alguns sistemas).
