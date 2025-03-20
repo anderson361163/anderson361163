@@ -2,11 +2,11 @@
 
 <br>
 
-Meu nome é Anderson da Silva Machado, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ ! (O CSS só está em primeiro lugar devido aos templates que utilizo em alguns sistemas).
+Meu nome é Anderson, sou técnico em informática pela ETEC Adhemar Batista Heméritas 🎓 e sou um apaixonado pela programação, em especial na ☕ linguagem Java ☕ ! .
 
 ## Sobre mim
-📚 Sou aluno do curso <b>Sistema da Informação<b> da <b>Faculdade Impacta</b> 🎯; <br/> 
-👨🏾‍💻 As principais stacks que tenho familaridade são o Java, Springs Frameworks e Hibernate;<br/>
+📚 Sou graduado em <b style="color: blue">Sistema da Informação</b> pela <b style="color: blue">Faculdade Impacta</b> e pós-graduado em <b style="color: red">MBA Fullstack</b> pela <b style="color: red">FIAP</b>🎯; <br/> 
+👨🏾‍💻 As principais stacks que tenho familaridade são o Java, Springs Frameworks e Hibernate no back-end e no front-end eu utilizo Angular com ecosistema PrimeNG;<br/>
 📬 Qualquer sugestão de melhoria nos códigos ou dúvida, sinta-se a vontade 😄.<br/>
   <br/><br/>
      
